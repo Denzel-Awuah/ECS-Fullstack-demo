@@ -11,7 +11,7 @@ Dockerized both frontend and backend microservices into a single Docker image us
 
 Deployed the Fullstack image to a Serverless Fargate Instance within a Cluster using Amazon's Elastic Container Service.
 
-The Fargate instance has the capability to autoscaling and also communicates with the MySQL database which was deployed to AWS RDS. 
+The Fargate instance is the capable of autoscaling and also communicates with the MySQL database which was deployed to AWS RDS. 
 
 
 
