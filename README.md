@@ -15,10 +15,4 @@ The Fargate instance is the capable of autoscaling and also communicates with th
 
 
 
-## Deployment Strategy
-![Application](./aws_deployment_architecture.drawio.png)
-
-<br />
-
-
 
